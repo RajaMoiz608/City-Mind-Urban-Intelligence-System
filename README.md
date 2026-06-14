@@ -115,6 +115,14 @@ This project was developed as an Artificial Intelligence semester project and de
 * Live traffic simulation
 * Deep Learning-based risk prediction
 
+  ## Team Members
+
+This project was developed by:
+
+- Moiz Raja - GitHub: https://github.com/RajaMoiz608
+- Rehan Ayub 
+- Malhan Bin Faisal 
+
 ## License
 
 This project is developed for educational and research purposes.
