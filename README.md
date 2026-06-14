@@ -120,7 +120,7 @@ This project was developed as an Artificial Intelligence semester project and de
 This project was developed by:
 
 - Moiz Raja - GitHub: https://github.com/RajaMoiz608
-- Rehan Ayub 
+- Rehan Ayub - GitHub: https://github.com/RehanAyub56
 - Malhan Bin Faisal - GitHub: https://github.com/MalhanFaisal
 
 ## License
