@@ -121,7 +121,7 @@ This project was developed by:
 
 - Moiz Raja - GitHub: https://github.com/RajaMoiz608
 - Rehan Ayub 
-- Malhan Bin Faisal 
+- Malhan Bin Faisal - GitHub: https://github.com/MalhanFaisal
 
 ## License
 
