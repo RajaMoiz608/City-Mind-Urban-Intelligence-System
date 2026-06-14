@@ -115,7 +115,7 @@ This project was developed as an Artificial Intelligence semester project and de
 * Live traffic simulation
 * Deep Learning-based risk prediction
 
-  ## Team Members
+ ## Team Members
 
 This project was developed by:
 
